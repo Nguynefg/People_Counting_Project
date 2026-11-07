@@ -1,0 +1,7 @@
+path: C:/Users/FPTSHOP NAN K6 CG/OneDrive/Tài liệu/People_Counting_Project/People_Counting_Project
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['person']
