@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.bak
+dataset/
+weights/
+runs/
+*.pt
+*.rar
+config.json
+thong_ke_ngay.csv
+test_simulation.mp4
