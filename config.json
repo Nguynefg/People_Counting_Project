@@ -1,0 +1,21 @@
+{
+    "line_points": [
+        [
+            26,
+            262
+        ],
+        [
+            570,
+            535
+        ]
+    ],
+    "invert_dir": false,
+    "conf_thresh": 0.38,
+    "iou_thresh": 0.55,
+    "point_mode": "foot",
+    "full_span_barrier": true,
+    "model_path": "F:\\Zalo Data\\Thị giác máy tính\\People_Counting_Project\\weights\\yolo11m.pt",
+    "model_folder": "F:\\Zalo Data\\Thị giác máy tính\\People_Counting_Project\\weights",
+    "snap_enabled": true,
+    "last_video": "F:/Dowloads/165968-833532315_medium.mp4"
+}
