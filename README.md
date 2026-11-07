@@ -94,7 +94,7 @@ Nhãn Camera 0/1 trong giao diện là tên đặt sẵn; thiết bị thực t�
 - **Thống kê ngày:** cộng dồn sự kiện qua nhiều phiên theo ngày/giờ máy tính tại lúc xử lý. Khi phát lại video cũ, ngày ghi nhận vẫn là ngày chạy ứng dụng.
 - Chạy lại cùng video sẽ tiếp tục cộng vào thống kê ngày; ứng dụng không tự loại lượt trùng giữa các phiên.
 
-## Nguyên lý đếm
+## Nguyên lý đếm:
 
 ```text
 Video / camera → OpenCV → YOLO phát hiện person → Tracking ID
