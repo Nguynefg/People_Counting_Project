@@ -214,5 +214,3 @@ Script kiểm tra nạp model, giao cắt vạch, chiếu vạch tới biên, ch
 ## Giới hạn
 
 Độ chính xác phụ thuộc góc camera, ánh sáng, mật độ người và chất lượng tracking. ID có thể thay đổi khi che khuất; người quay lại quá nhanh có thể không được đếm do khoảng chờ 40 frame. Đây là bộ đếm lượt qua vạch, không phải nhận dạng danh tính hoặc đo chính xác số người hiện diện trong mọi tình huống. Phiên bản hiện tại xử lý một nguồn hình tại một thời điểm và chưa có chức năng ghi video kết quả trong GUI.
-
-README được đối chiếu với mã nguồn, cấu hình, danh sách file và log trong bản nén v3. Chưa chạy ứng dụng, huấn luyện lại hoặc thực thi bộ kiểm thử trong quá trình soạn tài liệu.
